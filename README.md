@@ -60,7 +60,7 @@ This is a normal paragraph:
     This is a code block.
     cout<<"Hello World!\n";
 
-This is [an example](http://github.com/s1031432/ "s1031432") s1031432
+This is [my Github](http://github.com/s1031432/ "s1031432")
 
 
 normal
@@ -70,6 +70,9 @@ normal
 `
 printf()
 `
+
 ``
 cout<<"AAAAAA\n";
 ``
+
+![cat!!](https://live.staticflickr.com/8061/29497396210_08545d0a70_b.jpg "cat!!")

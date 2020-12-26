@@ -76,4 +76,4 @@ cout<<"AAAAAA\n";
 ``
 
 ---
-**referenct: [markdown.tw](https://markdown.tw/ "markdown.tw")**
+**reference: [markdown.tw](https://markdown.tw/ "markdown.tw")**

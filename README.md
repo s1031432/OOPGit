@@ -76,5 +76,8 @@ printf()
 cout<<"AAAAAA\n";
 ``
 
+![cute cat](https://live.staticflickr.com/8061/29497396210_08545d0a70.jpg "cute cat")
+
+
 ---
 **reference: [markdown.tw](https://markdown.tw/ "markdown.tw")**
